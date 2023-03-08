@@ -1,0 +1,56 @@
+/* reset css */
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+
+}
+header{
+    display: flex;
+     
+    margin-right: ;
+    justify-content: space-between
+}
+nav{
+    align-items: flex-end;
+    text-decoration: none;
+    /* border: 1px solid brown; */
+    display: flex;
+    justify-content:space-around;
+    width: 500px;
+
+}
+.boy{
+    text-decoration: none;
+}
+h5{
+    font-size: 30px;
+    color: burlywood;
+
+    margin: 5px;
+    padding: 5px;
+}
+
+h1{
+    font-size: 80px;
+}
+
+.image{
+     position: absolute;
+    top: 70px;
+    width:800px;
+    right: 10px;
+}
+
+
+.hero{
+    margin-top: 80px;
+
+}
+
+p{
+    margin: 5px;
+    padding: 5px;
+    font-style: italic;
+    color: red;
+}
